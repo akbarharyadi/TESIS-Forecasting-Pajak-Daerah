@@ -2,7 +2,7 @@
 ## Built in Python
 
 
-This repo demonstrates how I used Python codeto build time-series forecast. 
+This repo demonstrates how I used Python code to build time-series forecast. 
 Thanks..
 
 ReadMe will update latter for future usage and improvement
